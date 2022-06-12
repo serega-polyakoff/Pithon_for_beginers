@@ -1,5 +1,5 @@
 salary = float(input())
-load = float(input())
-if salary * 200 >= load:
-    print(f'Your loan application for {load} has been approved.')
+loan = float(input())
+if salary * 200 >= loan:
+    print(f'Your loan application for {loan} has been approved.')
 
